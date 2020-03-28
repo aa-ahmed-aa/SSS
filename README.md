@@ -1,5 +1,8 @@
 # Slack Status Setter (SSS) 🤖
-Thanks to face detector on this repo : [Here](https://github.com/WebDevSimplified/Face-Detection-JavaScript)
+It will update your slack status according to your actual presence in front of your camera every 10 minutes Follow the Docs to customize this project 
+
+> Thanks to face detector on this repo : [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript)
+
 
 ## Installation  👀
 1. open `https://api.slack.com/legacy/custom-integrations/legacy-tokens` and under `Legacy information` you can find your token.
